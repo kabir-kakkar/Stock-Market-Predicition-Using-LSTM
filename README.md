@@ -1,4 +1,4 @@
-# Stock-Market-Predicition-Using-LSTM
+# Stock-Market-Prediction-Using-LSTM
 
 ## Introduction
 
